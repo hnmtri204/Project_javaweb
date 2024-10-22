@@ -12,8 +12,6 @@
 ![example](./images/categories.png)
 - Detail Page
 ![example](./images/detail.png)
-- Cart Page
-![example](./images/cart.png)
 - Login Page
 ![example](./images/login.png)
 - Register Page
