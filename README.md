@@ -5,7 +5,7 @@
  - Trang web được xây dưng dựa trên 2 nền tảng: HTML và CSS.
 # Dưới đây là những hình ảnh chi tiết về website này
 - Home Page
-![example](../images/home.png)
+![example](./images/home.png)
 - Products Page
 ![example](./images/products.png)
 - Categories Page
