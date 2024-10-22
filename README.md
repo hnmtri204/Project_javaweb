@@ -1,8 +1,8 @@
 #### Hoàng Ngọc Minh Trí
- ### HTML & CSS - Thiết kế website Cara
+ ### Java Web - Thiết kế website Coza Store
  # Giới thiệu
  - Trang web Coza Store chính là một website bán hàng với sản phẩm chủ yếu là thời trang.
- - Trang web được xây dưng dựa trên 2 nền tảng: HTML và CSS.
+ - Trang web được xây dưng dựa trên các nền tảng: HTML, CSS, Java, Javascript, MySQL.
 # Dưới đây là những hình ảnh chi tiết về website này
 - Home Page
 ![example](./images/home.png)
